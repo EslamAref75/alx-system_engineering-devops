@@ -1,1 +1,2 @@
-Shell baiscs /n File manipulation
+Shell baiscs
+File manipulation
