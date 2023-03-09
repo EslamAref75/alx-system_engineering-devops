@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 644
+sudo find Example -type d -exec chmod 755 {} \;
