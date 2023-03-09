@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R root:staff hello
+chown -R root:vincent staff/ 
